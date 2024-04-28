@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=MP3Player
+comment1.params=model\ price\ weight\ size\ memory
+comment1.target=MP3Player(java.lang.String,\ double,\ double,\ double,\ double)
+comment10.params=
+comment10.target=void\ displayMP3()
+comment2.params=downloadSize
+comment2.target=void\ downloadMusic(double)
+comment3.params=
+comment3.target=double\ getMemoryAvailable()
+comment4.params=memoryAvailable
+comment4.target=void\ setMemoryAvailable(double)
+comment5.params=
+comment5.target=double\ getdownloadSize()
+comment6.params=downloadSize
+comment6.target=void\ setdownloadSize(double)
+comment7.params=
+comment7.target=double\ getMemoryUsed()
+comment8.params=memoryUsed
+comment8.target=void\ setMemoryUsed(double)
+comment9.params=memoryToFree
+comment9.target=void\ deleteMusic(double)
+numComments=11
